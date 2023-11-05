@@ -8,13 +8,14 @@ titles:
 key: page-about
 ---
 
+# Here is MY CV:
 
-# Education
+## Education
 - **Wuhan University of Technology**
   - *Geographic Information Science* , Undergraduate
   - 2020 - 2024
 
-# Internship & Research Experiences
+## Internship & Research Experiences
 
 - **Visiting Student & Research Assistant, Wuhan University**
   - *July 2023 -*
@@ -54,7 +55,7 @@ key: page-about
     - Worked on using CNN to identify thermal power plants and used neural network models to predict carbon emissions. Currently in the research stage.
     - Supervisor: Prof. Wei Cui
 
-# Association Work
+## Association Work
 
 - President of GIS Association of Wuhan University of Technology
   - June 2022 - June 2023
