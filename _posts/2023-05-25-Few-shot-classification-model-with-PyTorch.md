@@ -1,6 +1,6 @@
 ---
 title: Few-shot classification model with PyTorch
-tags: PyTorch, Deep Learning
+tags: PyTorch Deep-Learning
 ---
 
 
