@@ -1,8 +1,9 @@
 ---
+title: GISphere Guide
 layout: article
 key: page-GISphere
 ---
-## GISphere Guide
+
 *This School Instruction Project was launched in September 2019, aiming to provide timely and comprehensive information on global GIS and related professional colleges. The information is provided by current students, recently graduated alumni or young teachers from prestigious schools of GIS and urban planning and other related majors around the world. We hope this guide can provide help and support for GIS-related professional friends who intend to study abroad.*
 
 ## *Webiste:* [https://gisphere.info](https://gisphere.info/) 
