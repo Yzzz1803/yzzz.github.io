@@ -1,3 +1,7 @@
+---
+tags: statistic
+---
+
 ## Bias & Variance
 ### 1.  Bias
 一般在统计学中，我们就是以样本的统计量来对母体进行估计，而Bias便是**度量我们样本统计量与母体的差异程度**。
@@ -5,7 +9,7 @@
 	- assume the mean of x is $μ$
 	- assume rhe variance of x is $\sigma^2$
 - Estimator of variance $\sigma^2$
-	- sample N points: {$x^1, x^2, ..., x^N$ }
+	- sample N points: { $x^1, x^2, ..., x^N$ }
 
 $$
 m=\frac{1}{N} \sum_n x^n \\
@@ -13,6 +17,7 @@ m=\frac{1}{N} \sum_n x^n \\
 $$
 
 Biased estimator
+
 $$
 E[s^2] = \frac{N-1}{N} \sigma^2 \neq \sigma^2
 $$
