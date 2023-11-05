@@ -3,72 +3,65 @@ layout: article
 titles:
   # @start locale config
   en      : &EN       About
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
   zh-Hans : &ZH_HANS  关于
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       소개
-  ko-KR   : *KO
-  fr      : &FR       À propos
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
   # @end locale config
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+# Education
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+- **Wuhan University of Technology**
+  - *Geographic Information Science*
+  - Undergraduate
+  - 2020 - 2024
 
-## Features
+# Internship & Research Experiences
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+- **Visiting Student & Research Assistant, Wuhan University**
+  - *July 2023 -*
+    - Trained the YOLO-based object detection algorithm and deployed the model compression to the K210 microcontroller.
+    - Landed application: the model detects Tibetan brown bears, the K210 drives the water pump, and the bear spray is used to drive away the Tibetan brown bears.
+    - Currently have a Chinese core journal in submission.
+    - Supervisor: Prof. Teng Fei
+ 
+- **Development Team Leader, GISinfo (Subprojects under GISphere)**
+  - *February 2022 -*
+    - Used the Django framework of Python to write login and registration APIs and connected to the MySQL database of the project team. Used Vue to build the front-end.
+    - Responsible for the management of the user demand pool and the advancement of the back-end related work.
+    - Website: [gisphere.info](https://gisphere.info)
+    - Supervisors: Yikang Wang, Dr. Yuhao Kang
 
-## Skins
+- **ISUI (Urban Informatics) Website Operations Volunteer**
+  - *February 2023 - July 2023*
+    - Backend built with PHP; frontend built with VUE. Hosting site based on WordPress.
+    - Built an automated email delivery system and a payment and receipt system.
+    - Website: [isocui.org](https://isocui.org)
+    - Supervisors: Dr. Rui Cao, Prof. Xintao Liu
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+- **Research Intern, Clemson University**
+  - *September 2022 - January 2023*
+    - Worked on data processing, including data cleaning and calculations using MATLAB and Python.
+    - Wrote the thesis and made thematic maps. Currently, the second paper is in the process of submission.
+    - Supervisor: Dr. Fan Chao
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+- **Algorithm Intern, XCMG Road Machinery Division**
+  - *July 2022 - February 2022*
+    - Used software provided by Leica to create digital roads and used ArcGIS to present the results on a map.
+    - Worked on horizontal alignment and curve fitting algorithms.
+    - Supervisor: Bowen WU
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+- **Independent Innovation Project of Wuhan University of Technology**
+  - *July 2022 - October 2023*
+    - Worked on using CNN to identify thermal power plants and used neural network models to predict carbon emissions. Currently in the research stage.
+    - Supervisor: Prof. Wei Cui
 
-### Highlight Theme
+# Association Work
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+- President of GIS Association of Wuhan University of Technology
+  - June 2022 - June 2023
+  - Supervisor: Prof. Ming Zhang
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+- Director of Technology of GIS Association of Wuhan University of Technology
+  - June 2021 - June 2022
+  - Supervisor: Prof. Ming Zhang
