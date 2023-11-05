@@ -1,9 +1,8 @@
 ---
-title: Welcome
+title: Few-shot classification model with PyTorch
 tags: PyTorch, Deep Learning
 ---
 
-# Few-shot classification model with PyTorch
 
 In 15 minutes and just a few lines of code, we are going to implement the [Prototypical Networks](https://arxiv.org/abs/1703.05175). It's the favorite method of many few-shot learning researchers (~2000 citations in 3 years), because 1) it works well, and 2) it's incredibly easy to grasp and to implement.
 
