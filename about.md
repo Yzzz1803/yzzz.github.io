@@ -10,10 +10,8 @@ key: page-about
 
 
 # Education
-
 - **Wuhan University of Technology**
-  - *Geographic Information Science*
-  - Undergraduate
+  - *Geographic Information Science* , Undergraduate
   - 2020 - 2024
 
 # Internship & Research Experiences
