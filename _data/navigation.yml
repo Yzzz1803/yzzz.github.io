@@ -54,5 +54,6 @@ header:
     - titles:
       # @start locale config
       en      : &EN       GISphere
+      zh-Hans : &ZH_HANS  GISphere
       # @end locale config
     url: /GISphere.html
