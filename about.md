@@ -9,7 +9,10 @@ key: page-about
 *Beyond my academic pursuits, I have a deep passion for rock music, which has been a constant source of inspiration in my life. One of my all-time favorite rock stars is Bob Dylan.*
 
 
-# Here is MY CV:
+## Here is MY CV:
+Here is the PDF version: [My CV](/PengyuChen11_4.pdf)
+
+<br>
 
 ## Education
 - **Wuhan University of Technology**
