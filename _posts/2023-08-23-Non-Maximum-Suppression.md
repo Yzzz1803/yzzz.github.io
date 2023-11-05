@@ -1,3 +1,6 @@
+---
+tags: PyTorch, Deep Learning
+---
 # Non Maximum Suppression: Theory and Implementation in PyTorch (EN & CN)
 Non Maximum Suppression(NMS) Is a technique used in numerous computer vision tasks. It is a class of algorithms to select one entity(e.g., bouding boxes) out of many overlapping entites. We can choose the selection criteria to arrive at the desired results. The criteria are most commonly some form of probability number and some form of overlap measure.(e.g., Intersection over Union).
 
