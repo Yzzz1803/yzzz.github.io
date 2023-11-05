@@ -1,9 +1,12 @@
 header:
-  - titles: Archive
+  - titles: 
+      en: Archive
     url: /archive.html
 
-  - titles: About
+  - titles: 
+      en: About
     url: /about.html
 
   - titles: GISphere
+      en: GISphere
     url: /GISphere.md
