@@ -8,7 +8,11 @@ key: page-GISphere
 This School Instruction Project was launched in September 2019, and the latest version will be updated in September 2021, aiming to provide timely and comprehensive information on global GIS and related professional colleges. The information is provided by current students, recently graduated alumni or young teachers from prestigious schools of GIS and urban planning and other related majors around the world. We hope this guide can provide help and support for GIS-related professional friends who intend to study abroad.
 
 ## GISphere in media
- <br>[*The Media links of GISphere*<font size=30>](https://linktr.ee/gisphere). <br>
+ <br>
+ 
+ [*The Media links of GISphere*](https://linktr.ee/gisphere)
+   
+ <br>
 
 GISphere maintains an active presence across several social media platforms, such as Twitter, LinkedIn, YouTube, among others.
 Furthermore, we also have a WhatsApp community. We consistently arrange online events under the banner of the GISalon series, fostering direct engagement among GIS students, emerging professors, and other experts spanning the globe. These gatherings offer a platform to discuss and exchange learning encounters, career guidance, industry-related perspectives, and a wealth of professional insights within the diverse realm of GIS. To learn more, please visit the About page.
