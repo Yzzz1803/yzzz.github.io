@@ -214,6 +214,7 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
+theme: jekyll-text-theme
 
 
 ## => Plugins
