@@ -7,6 +7,7 @@ article_header:
 ---
 
 Article Link: [Group Meeting](https://mp.weixin.qq.com/s/3PlQFtvt_uWFbmI3vyabdQ)
+Editing & Layouts: Ziyue GUO
 
 The ongoing conflict between residents in the Qinghai-Tibet Plateau region and Tibetan brown bears poses a significant challenge to the protection of the local ecosystem and human livelihoods. This issue not only seriously affects the livelihoods of local herders, causing economic losses, but also potentially endangers their lives. It is worth noting that according to the reported data from the Nangqian County Public Security Bureau in Yushu City, Qinghai Province, human-bear conflicts often occur in the summer. When herders move to higher-altitude summer pastures, the lower-altitude winter pastures (typically their long-term residence) are left unattended and are susceptible to intrusion and damage by brown bears.
 
