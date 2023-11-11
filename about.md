@@ -5,8 +5,8 @@ key: page-about
 ---
 <br>
 
-*I'm a **GIScience** student.I have a diverse range of interests, and I'm eager to explore the fascinating world of GeoAI theory. Additionally, I am dedicated to advancing the field of Environmental Psychology, with a specific focus on understanding the dynamics of urban street views and their impact on human behavior and well-being.*<br>
-*Beyond my academic pursuits, I have a deep passion for rock music, which has been a constant source of inspiration in my life. One of my all-time favorite rock stars is Bob Dylan.*
+  *I'm a **GIScience** student.I have a diverse range of interests, and I'm eager to explore the fascinating world of Human-related AI theory.<br>
+
 
 
 ## Résumé:
