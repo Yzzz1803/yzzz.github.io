@@ -56,14 +56,14 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 - **Independent Innovation Project of Wuhan University of Technology**
   - *July 2022 - October 2023*
     - Worked on using CNN to identify thermal power plants and used neural network models to predict carbon emissions. Currently in the research stage.
-    - Supervisor: Prof. Wei Cui
+    - Supervisor: [Prof. Wei Cui](https://baike.baidu.com/item/%E5%B4%94%E5%B7%8D/7542643)
 
 ## Association Work
 
 - President of GIS Association of Wuhan University of Technology
   - June 2022 - June 2023
-  - Supervisor: Prof. Ming Zhang
+  - Supervisor: Dr. Ming Zhang
 
 - Director of Technology of GIS Association of Wuhan University of Technology
   - June 2021 - June 2022
-  - Supervisor: Prof. Ming Zhang
+  - Supervisor: Dr. Ming Zhang
