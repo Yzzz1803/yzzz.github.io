@@ -5,12 +5,12 @@ key: page-about
 ---
 <br>
 
-  *I'm a **GIScience** student.I have a diverse range of interests, and I'm eager to explore the fascinating world of Human-related AI theory.<br>
+  *I'm a **GIScience** student.I have a diverse range of interests, and I'm eager to explore the fascinating world of Human-related AI theory*. <br>
 
 
 
 ## Résumé:
-Here is the PDF version: [My Résumé](/Pengyu-CV.pdf)
+Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 <br>
 
 ## Education
