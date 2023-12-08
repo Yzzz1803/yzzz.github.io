@@ -5,11 +5,11 @@ key: page-about
 ---
 <br>
 
-  *I'm a **GIScience** student.I have a diverse range of interests, and I'm eager to explore the fascinating world of Human-related AI theory*. <br>
+  *I'm a **GIScience** student.I have a diverse range of interests, and I'm eager to explore the fascinating world of Human-related AI theory, including HCI, Iot, and Deep Learning*. <br>
 
 
 
-## Résumé:
+## Curriculum vitae:
 Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 <br>
 
@@ -21,14 +21,14 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 ## Internship & Research Experiences
 
 - **Visiting Student & Research Assistant, Wuhan University**
-  - *July 2023 -*
+  - *July 2023 - Present*
     - Trained the YOLO-based object detection algorithm and deployed the model compression to the K210 microcontroller.
     - Landed application: the model detects Tibetan brown bears, the K210 drives the water pump, and the bear spray is used to drive away the Tibetan brown bears.
     - Currently have a Chinese core journal in submission.
     - Supervisor: Prof. Teng Fei
  
 - **Development Team Leader, GISinfo (Subprojects under GISphere)**
-  - *February 2022 -*
+  - *February 2022 - Present*
     - Used the Django framework of Python to write login and registration APIs and connected to the MySQL database of the project team. Used Vue to build the front-end.
     - Responsible for the management of the user demand pool and the advancement of the back-end related work.
     - Website: [gisphere.info](https://gisphere.info)
