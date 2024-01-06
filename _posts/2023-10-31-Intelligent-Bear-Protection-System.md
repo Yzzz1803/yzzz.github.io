@@ -11,7 +11,7 @@ Editing & Layouts: Ziyue GUO
 PPT Link (English): [Intelligent Bear Protection System](https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/_posts/human_bear_conflicts.pdf) <br>
 Editing & Layouts: Pengyu CHEN
 
-<iframe src="http://urban-playground.top:8001/lab/tree/human_bear_conflicts.pdf&embedded=true
+<iframe src="http://urban-playground.top:8001/lab/tree/human_bear_conflicts.pdf
 " style="width:600px; height:500px;" frameborder="0"></iframe>
 
 The ongoing conflict between residents in the Qinghai-Tibet Plateau region and Tibetan brown bears poses a significant challenge to the protection of the local ecosystem and human livelihoods. This issue not only seriously affects the livelihoods of local herders, causing economic losses, but also potentially endangers their lives. It is worth noting that according to the reported data from the Nangqian County Public Security Bureau in Yushu City, Qinghai Province, human-bear conflicts often occur in the summer. When herders move to higher-altitude summer pastures, the lower-altitude winter pastures (typically their long-term residence) are left unattended and are susceptible to intrusion and damage by brown bears.
