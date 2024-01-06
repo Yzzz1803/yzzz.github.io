@@ -14,9 +14,10 @@ Editing & Layouts: Pengyu CHEN
 
 The ongoing conflict between residents in the Qinghai-Tibet Plateau region and Tibetan brown bears poses a significant challenge to the protection of the local ecosystem and human livelihoods. This issue not only seriously affects the livelihoods of local herders, causing economic losses, but also potentially endangers their lives. It is worth noting that according to the reported data from the Nangqian County Public Security Bureau in Yushu City, Qinghai Province, human-bear conflicts often occur in the summer. When herders move to higher-altitude summer pastures, the lower-altitude winter pastures (typically their long-term residence) are left unattended and are susceptible to intrusion and damage by brown bears.
 
-![framework1](https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/_posts/bear_frame1.png)
-![framework2](https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/_posts/bear_frame2.png)
+![framework1](https://files.mdnice.com/user/43031/c02bdd34-bc83-4b87-b158-a8bddfe80945.png)
+![framework2](https://files.mdnice.com/user/43031/d41bdfc7-0cb6-44ae-9b0f-c26c78cd064f.png)
 
+<br>
 Due to the remote location, all pastures lack network signal coverage and access to the power grid. Additionally, Tibetan brown bears are protected animals in China, and methods that could harm them cannot be used to deter them. Therefore, developing a bear protection system that ensures the safety of local residents without harming Tibetan brown bears presents a significant challenge.
 
 To address this challenge more effectively, the research by student Chen Pengyu combines computer vision algorithms with IoT (Internet of Things) technology. It utilizes the low-power, high-resolution display-capable Kendryte K210 development board as the implementation platform for algorithms and the operating system. This research proposes a technology-driven automated strategy for dealing with human-bear conflicts. This system can monitor wildlife activities in real-time and identify bear species using AI visual algorithms. When bears are detected, the development board activates a bear deterrent spray system, which drives Tibetan brown bears away from the herder's living area, reducing the risk of conflicts between herders and bears.
