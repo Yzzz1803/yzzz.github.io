@@ -4,13 +4,15 @@ layout: article
 key: page-GISphere
 ---
 
+<span style="font-family: Georgia, serif;">
+  
 *This School Instruction Project was launched in September 2019, aiming to provide timely and comprehensive information on global GIS and related professional colleges. The information is provided by current students, recently graduated alumni or young teachers from prestigious schools of GIS and urban planning and other related majors around the world. We hope this guide can provide help and support for GIS-related professional friends who intend to study abroad.*
 
-## *Webiste:* *[gisphere.info](https://gisphere.info/)* 
+## Webiste: [gisphere.info](https://gisphere.info/) 
 
 ## GISphere in media
  
- [*The Media links of GISphere*](https://linktr.ee/gisphere)
+ [The Media links of GISphere](https://linktr.ee/gisphere)
 
 
 GISphere maintains an active presence across several social media platforms, such as Twitter, LinkedIn, YouTube, among others.
@@ -24,3 +26,5 @@ Moreover, we warmly welcome more volunteers to join our cause! it is important t
 Names of authors and developers of this guide are shown below in the Contributor section.
 
 - Old version: [gis-info.github.io](https://gis-info.github.io/) (Updated 2020/09)
+
+</span>
