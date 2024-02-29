@@ -5,6 +5,8 @@ article_header:
   type: cover
 ---
 
+![](https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/_posts/bear_frame1.png)
+
 Article Link (Chinese): [Group Meeting](https://mp.weixin.qq.com/s/3PlQFtvt_uWFbmI3vyabdQ) <br>
 Editing & Layouts: Ziyue GUO
 
