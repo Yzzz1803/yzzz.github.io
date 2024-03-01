@@ -38,8 +38,8 @@ author:
   name      : Pengyu CHEN
   url       : 
   avatar    : # path or url of avatar image (square)
-  bio       : A GIScience Student.
-  email     : pengyu-chen2002@gmail.com
+  bio       : A GIScience Student. Interested in multi-model and explainable AI
+  email     : pengyuchen2002@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : Andy_Pengyu # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -48,14 +48,14 @@ author:
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  linkedin  : pengyu-chen-a07973181 # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : pengyu-gis # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: Pengyu-gis/Pengyu-gis.github.io
 repository_tree: master
 
 
