@@ -18,7 +18,7 @@
 ##############################
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night-blue # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://pengyu-gis.github.io/
+url     : #
 baseurl : https://pengyu-gis.github.io/
 title   : Pengyu Site
 description: > # this means to ignore newlines until "Language & timezone"
