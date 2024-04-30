@@ -2,19 +2,22 @@
 tags: CLIP Remote-Sensing Computer-Vision Deep-Learning PyTorch
 ---
 
+**For Complete PDF(english): [remote_clip_finetuning.pdf](https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/_posts/remote_clip_finetuning.pdf)** <br> contact: [email](pengyuchen2002@gmail.com)
 
-<object data="_posts/remote_clip_finetuning.pdf" width="1000" height="1000" type='application/pdf'></object>
+<br>
+
+![image](https://github.com/Pengyu-gis/Pengyu-gis.github.io/assets/95490459/1bd924a7-0c4f-4804-ae15-4373b85f9a76)
+
+<br>
 
 
-
-# Finetuning RemoteCLIP based on open_clip
-
-
-### What is CLIP?
+## What is CLIP?
 
 CLIP is a model that fundamentally changes how machines understand images by training on a combination of image and text data. This method, known as contrast learning, involves matching images with relevant text descriptions in a high-dimensional space. The core idea is that images and their corresponding texts are brought closer in this space, while unrelated pairs are pushed apart.
 
-### Contrast Learning 
+## Contrast Learning 
+
+![Contrast Learning](https://github.com/Pengyu-gis/Pengyu-gis.github.io/assets/95490459/14f5d9e1-f865-4b77-ac1c-732927ceae68)
 
 The contrast learning framework within CLIP involves three main elements:
 
@@ -32,6 +35,8 @@ RemoteCLIP enhances the zero-shot capabilities of CLIP by fine-tuning the model 
 
 ## fine-tuning code
 For complete code, please check: https://github.com/Pengyu-gis/RemoteCLIP/blob/main/remoteclip_finetuning_test1.ipynb
+
+![image](https://github.com/Pengyu-gis/Pengyu-gis.github.io/assets/95490459/974d5b9f-7abc-4017-89c4-ad8ed682b53e)
 
 
 This is the dataloader code:
