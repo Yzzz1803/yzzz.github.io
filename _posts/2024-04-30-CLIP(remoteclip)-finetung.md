@@ -2,7 +2,8 @@
 tags: CLIP Remote-Sensing Computer-Vision Deep-Learning PyTorch
 ---
 
-**For Complete PDF(english): [remote_clip_finetuning.pdf](https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/_posts/remote_clip_finetuning.pdf)** <br> contact: [email](pengyuchen2002@gmail.com)
+**For Complete PDF(english): [remote_clip_finetuning.pdf](https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/_posts/remote_clip_finetuning.pdf)** <br>
+**For Complete Code(pytorch): [github](https://github.com/Pengyu-gis/RemoteCLIP)**<br> contact: [email](pengyuchen2002@gmail.com); much thanks to this great work: [remoteclip](https://github.com/ChenDelong1999/RemoteCLIP)
 
 <br>
 
