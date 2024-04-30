@@ -1,10 +1,10 @@
-```xml
-<object data="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/_posts/remote_clip_finetuning.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/_posts/remote_clip_finetuning.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/_posts/remote_clip_finetuning.pdff">Download PDF</a>.</p>
-    </embed>
-</object>
-```
+---
+tags: CLIP Remote-Sensing Computer-Vision Deep-Learning PyTorch
+---
+
+
+<object data="_posts/remote_clip_finetuning.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 
 
 # Finetuning RemoteCLIP based on open_clip
