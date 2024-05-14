@@ -8,7 +8,7 @@ Editing & Layouts: Ziyue GUO
 PPT Link (English): [Intelligent Bear Protection System](https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/_posts/human_bear_conflicts.pdf) <br>
 Editing & Layouts: Pengyu CHEN
 
-![frame](https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/_posts/bear_frame1.png)
+![frame](https://github.com/Pengyu-gis/Pengyu-gis.github.io/assets/95490459/23083078-768a-4b2e-8b68-ad94c41474c0)
 
 Vedio Demo:
 
