@@ -1,8 +1,6 @@
 ---
 title: Intelligent Bear Protection System Based on Computer Vision and IoT
 tags: Computer-Vision
-article_header:
-  type: cover
 ---
 
 Article Link (Chinese): [Group Meeting](https://mp.weixin.qq.com/s/3PlQFtvt_uWFbmI3vyabdQ) <br>
