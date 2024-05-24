@@ -15,6 +15,8 @@ key: page-Gallery
   I know every scene by heart, they all went by so fast. --Bob Dylan
 </div>
 
+<br><br>
+
 <div style="width: 85%; margin: 0 auto; text-align: center;">
   <div style="display: flex; justify-content: space-around;">
     <div style="width: 45%;">
@@ -30,7 +32,7 @@ key: page-Gallery
 
 <div style="width: 85%; margin: 0 auto; text-align: center;">
   <div style="display: flex; justify-content: space-around;">
-    <div style="width: 45%;">
+    <div style="width: 37%;">
       <img src="https://raw.githubusercontent.com/Pengyu-gis/Pengyu-gis.github.io/master/assets/images/record.jpg" alt="My favorite record store, Wuhan in 2020, no longer exists.." style="width: 100%;" />
       <p><strong>My favorite record store, Wuhan in 2020, no longer exists..</strong></p>
     </div>
