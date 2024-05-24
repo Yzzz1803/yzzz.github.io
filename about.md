@@ -6,7 +6,7 @@ key: page-about
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="width: 60%;">
-    <p>I am a master's student at the University of South Carolina, an intern at the Spatial Data Lab at Harvard University, have been a visiting student at Wuhan University, an algorithmic internship at XCMG, and a research internship at Clemson University. My undergraduate degree is from Wuhan University of Technology.</p>
+    <p>I am a master's student at the University of South Carolina, an intern at the Spatial Data Lab at Harvard University, Web Development Leader at GISphere, have been a visiting student at Wuhan University, an algorithmic internship at XCMG, and a research internship at Clemson University. My undergraduate degree is from Wuhan University of Technology.</p>
     <p>My research interests include:</p>
     <ul>
       <li>Connecting AI and human emotions</li>
@@ -15,7 +15,7 @@ key: page-about
       <li>Developing spatial algorithms to quantitatively express human-land related stories</li>
     </ul>
   </div>
-  <div style="width: 30%;">
+  <div style="width: 40%;">
     <img src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/me.jpg?raw=true" alt="Personal Image" style="width: 100%;" />
   </div>
 </div>
