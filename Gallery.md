@@ -31,12 +31,7 @@ key: page-Gallery
 </div>
 
 <div style="width: 85%; margin: 0 auto; text-align: center;">
-  <div style="display: flex; justify-content: space-around;">
-    <div style="width: 37%;">
-      <img src="https://raw.githubusercontent.com/Pengyu-gis/Pengyu-gis.github.io/master/assets/images/record.jpg" alt="My favorite record store, Wuhan in 2020, no longer exists.." style="width: 80%;" />
-      <p><strong>My favorite record store, Wuhan in 2020, no longer exists..</strong></p>
-    </div>
-  </div>
+  
   <div style="display: flex; justify-content: space-around;">
     <div style="width: 45%;">
       <img src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/sakamoto.jpg?raw=true" alt="Summer 2022, Beijing, Mr. Ryuichi Sakamoto's Exhibition" style="width: 100%;" />
