@@ -223,3 +223,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+
+assets:
+  sources:
+    - _assets/images
+    - _assets/javascripts
+    - _assets/stylesheets
