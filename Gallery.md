@@ -43,5 +43,3 @@ key: page-Gallery
     <!-- 如果有更多图片，可以继续添加类似的代码块 -->
   </div>
 </div>
-
-https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/yushu.jpeg?raw=true
