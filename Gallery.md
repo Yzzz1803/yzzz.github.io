@@ -31,14 +31,17 @@ key: page-Gallery
 </div>
 
 <div style="width: 85%; margin: 0 auto; text-align: center;">
-  
   <div style="display: flex; justify-content: space-around;">
     <div style="width: 45%;">
       <img src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/sakamoto.jpg?raw=true" alt="Summer 2022, Beijing, Mr. Ryuichi Sakamoto's Exhibition" style="width: 100%;" />
       <p><strong>Summer 2022, Beijing, Mr. Ryuichi Sakamoto's Exhibition</strong></p>
     </div>
+    <div style="width: 45%;">
+      <img src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/yushu.jpeg?raw=true" alt="" style="width: 100%;" />
+      <p><strong>2024, Yushu, saw the snowy mountains of Yushu from the airplane</strong></p>
+    </div>
     <!-- 如果有更多图片，可以继续添加类似的代码块 -->
   </div>
 </div>
 
-
+https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/yushu.jpeg?raw=true
