@@ -2,6 +2,13 @@
 tags: Computer-Vision
 ---
 
+## 5/20/2024 UPDATE: We installed our system on the Tibetan Plateau in Qinghai, up to 4,500 meters high!
+
+<div style="text-align: center;">
+  <img src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/we_bear!.jpg?raw=true" alt="Image" style="width: 85%;">
+</div>
+
+
 Article Link (Chinese): [Group Meeting](https://mp.weixin.qq.com/s/3PlQFtvt_uWFbmI3vyabdQ) <br>
 Editing & Layouts: Ziyue GUO
 
