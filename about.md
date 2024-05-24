@@ -16,7 +16,7 @@ key: page-about
     </ul>
   </div>
   <div style="width: 30%;">
-    ![Personal Image](https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/me.jpg?raw=true)
+    <img src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/me.jpg?raw=true" alt="Personal Image" style="width: 100%;" />
   </div>
 </div>
 
