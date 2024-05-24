@@ -3,10 +3,22 @@ layout: article
 titles: About ME
 key: page-about
 ---
-<br>
 
-  *I'm a **GIScience** student.I have a diverse range of interests, and I'm eager to explore the fascinating world of Human-related AI theory, including HCI, Iot, and Deep Learning*. <br>
-
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="width: 60%;">
+    <p>I am a master's student at the University of South Carolina, an intern at the Spatial Data Lab at Harvard University, have been a visiting student at Wuhan University, an algorithmic internship at XCMG, and a research internship at Clemson University. My undergraduate degree is from Wuhan University of Technology.</p>
+    <p>My research interests include:</p>
+    <ul>
+      <li>Connecting AI and human emotions</li>
+      <li>Exploring the happiness level of people in cities</li>
+      <li>Improving the human-land relationship between humans and natural animals</li>
+      <li>Developing spatial algorithms to quantitatively express human-land related stories</li>
+    </ul>
+  </div>
+  <div style="width: 30%;">
+    ![Personal Image](https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/me.jpg?raw=true)
+  </div>
+</div>
 
 
 ## Curriculum vitae:
