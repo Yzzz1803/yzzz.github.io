@@ -36,4 +36,13 @@ key: page-Gallery
     </div>
     <!-- 如果有更多图片，可以继续添加类似的代码块 -->
   </div>
+  <div style="display: flex; justify-content: space-around;">
+    <div style="width: 45%;">
+      <img src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/sakamoto.jpg?raw=true" alt="Summer 2022, Beijing, Mr. Ryuichi Sakamoto's Exhibition" style="width: 100%;" />
+      <p><strong>Summer 2022, Beijing, Mr. Ryuichi Sakamoto's Exhibition</strong></p>
+    </div>
+    <!-- 如果有更多图片，可以继续添加类似的代码块 -->
+  </div>
 </div>
+
+
