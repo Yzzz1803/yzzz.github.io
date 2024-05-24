@@ -12,19 +12,8 @@ key: page-Gallery
   }
 </style>
 
----
-layout: article
-title: Gallery
-key: page-Gallery
----
-
-<style>
-  .roman-font {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 1.5em; /* Adjust the font size as needed */
-    font-weight: bold;
-  }
-</style>
+Sundown, yellow moon, I replay the past <br>
+I know every scene by heart, they all went by so fast.
 
 <div class="container">
   <div class="row">
