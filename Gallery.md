@@ -1,6 +1,7 @@
 ---
-layout: article
 title: Moments
+layout: article
+key: page-Gallery
 ---
 
 <figure style="width: 85%; margin: 0 auto; text-align: center;">
