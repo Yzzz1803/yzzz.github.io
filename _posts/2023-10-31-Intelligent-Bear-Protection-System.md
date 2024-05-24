@@ -1,5 +1,5 @@
 ---
-tags: Computer-Vision
+tags: Computer-Vision Human-Bear-Conflicts
 ---
 
 ## 5/20/2024 UPDATE: We installed our system on the Tibetan Plateau in Qinghai, up to 4,500 meters high!
