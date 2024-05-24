@@ -12,7 +12,8 @@ key: page-Gallery
   }
 </style>
 <div class="roman-font">
-  Sundown, yellow moon, I replay the past. I know every scene by heart, they all went by so fast.
+  Sundown, yellow moon, I replay the past. 
+  I know every scene by heart, they all went by so fast. --Bob Dylan
 </div>
 
 <div style="width: 85%; margin: 0 auto; text-align: center;">
