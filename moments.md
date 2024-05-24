@@ -1,5 +1,5 @@
 ---
-layout: moments
+layout: article
 titles: moments
 key: page-moments
 ---
