@@ -14,9 +14,7 @@ key: page-Gallery
   Sundown, yellow moon, I replay the past. 
   I know every scene by heart, they all went by so fast. --Bob Dylan
 </div>
-
-<br><br>
-
+<br>
 <div style="width: 85%; margin: 0 auto; text-align: center;">
   <div style="display: flex; justify-content: space-around;">
     <div style="width: 45%;">
