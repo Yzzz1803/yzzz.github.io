@@ -33,10 +33,9 @@ key: page-Gallery
 <div style="width: 85%; margin: 0 auto; text-align: center;">
   <div style="display: flex; justify-content: space-around;">
     <div style="width: 37%;">
-      <img src="https://raw.githubusercontent.com/Pengyu-gis/Pengyu-gis.github.io/master/assets/images/record.jpg" alt="My favorite record store, Wuhan in 2020, no longer exists.." style="width: 100%;" />
+      <img src="https://raw.githubusercontent.com/Pengyu-gis/Pengyu-gis.github.io/master/assets/images/record.jpg" alt="My favorite record store, Wuhan in 2020, no longer exists.." style="width: 80%;" />
       <p><strong>My favorite record store, Wuhan in 2020, no longer exists..</strong></p>
     </div>
-    <!-- 如果有更多图片，可以继续添加类似的代码块 -->
   </div>
   <div style="display: flex; justify-content: space-around;">
     <div style="width: 45%;">
