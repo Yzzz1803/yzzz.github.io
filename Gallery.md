@@ -43,3 +43,15 @@ key: page-Gallery
     <!-- 如果有更多图片，可以继续添加类似的代码块 -->
   </div>
 </div>
+
+<div style="width: 85%; margin: 0 auto; text-align: center;">
+  <div style="display: flex; justify-content: space-around;">
+    <div style="width: 45%;">
+      <img src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/yunnan.jpg?raw=true" alt="2022, Dali Ancient City in Yunnan Province" style="width: 100%;" />
+      <p><strong>2022, Dali Ancient City in Yunnan Province</strong></p>
+    </div>
+    <div style="width: 45%;">
+      <img src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/nanjing.jpg?raw=true" alt="nanjing" style="width: 100%;" />
+      <p><strong>Early spring of 2022, Nanjing, by the Yangtze River</strong></p>
+    </div>  </div>
+</div>
