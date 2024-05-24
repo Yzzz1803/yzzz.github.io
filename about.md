@@ -15,7 +15,7 @@ key: page-about
       <li>Developing spatial algorithms to quantitatively express human-land related stories</li>
     </ul>
   </div>
-  <div style="width: 40%;">
+  <div style="width: 36.8%;">
     <img src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/me.jpg?raw=true" alt="Personal Image" style="width: 100%;" />
   </div>
 </div>
