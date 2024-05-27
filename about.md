@@ -42,7 +42,7 @@ key: page-about
     </ul>
   </div>
   <div class="image-content">
-    <img src="https://your-image-url.jpg" alt="Your Personal Image" />
+    <img src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/me_1.jpg?raw=true" alt="Personal Image" style="width: 91%;" />  
   </div>
 </div>
 
