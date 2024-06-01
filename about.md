@@ -9,7 +9,7 @@ key: page-about
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border: 2px solid #000; /* 黑色边框，可以根据需要调整颜色 */
+    border: 2px solid red; /* 红色边框 */
     padding: 20px; /* 内边距，确保内容不会紧贴边框 */
     margin-bottom: 20px; /* 控制每个内容块之间的间距 */
   }
@@ -25,14 +25,14 @@ key: page-about
 
   .image-content img {
     width: 100%;
-    border: 2px solid #000; /* 给图片添加边框 */
+    border: 2px solid red; /* 给图片添加红色边框 */
     padding: 5px; /* 给图片添加内边距，确保边框不会紧贴图片 */
   }
 </style>
 
 <div class="content-wrapper">
   <div class="text-content">
-    <p>I am a master's student at the University of South Carolina, an intern at the Spatial Data Lab at Harvard University, have been a visiting student at Wuhan University, an algorithmic internship at XCMG, and a research internship at Clemson University. My undergraduate degree is from Wuhan University of Technology.</p>
+    <p>I am an incoming M.S. & TA at the University of South Carolina, an intern at the Spatial Data Lab at Harvard University. I have been a visiting student at Wuhan University, an algorithmic internship at XCMG, and a research internship at Clemson University. My undergraduate degree will be from Wuhan University of Technology.</p>
     <p>My research interests include:</p>
     <ul>
       <li>Connecting AI and human emotions</li>
@@ -42,10 +42,9 @@ key: page-about
     </ul>
   </div>
   <div class="image-content">
-    <img src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/me_1.jpg?raw=true" alt="Personal Image" style="width: 91%;" />  
+    <img src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/me_1.jpg?raw=true" alt="Personal Image" style="width: 95%;" />  
   </div>
 </div>
-
 
 ## Curriculum vitae:
 Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
