@@ -10,8 +10,8 @@ key: page-about
     align-items: center;
     justify-content: space-between;
     border: 2px solid black; /* 边框 */
-    padding: 20px; /* 内边距，确保内容不会紧贴边框 */
-    margin-bottom: 20px; /* 控制每个内容块之间的间距 */
+    padding: 15px; /* 内边距，确保内容不会紧贴边框 */
+    margin-bottom: 15px; /* 控制每个内容块之间的间距 */
   }
 
   .text-content {
@@ -25,8 +25,8 @@ key: page-about
 
   .image-content img {
     width: 100%;
-    border: 2px solid red; /* 给图片添加红色边框 */
-    padding: 5px; /* 给图片添加内边距，确保边框不会紧贴图片 */
+    border: 2px solid black; /* 给图片添加红色边框 */
+    padding: 3px; /* 给图片添加内边距，确保边框不会紧贴图片 */
   }
 </style>
 
