@@ -9,7 +9,7 @@ key: page-about
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border: 2px solid red; /* 红色边框 */
+    border: 2px solid black; /* 边框 */
     padding: 20px; /* 内边距，确保内容不会紧贴边框 */
     margin-bottom: 20px; /* 控制每个内容块之间的间距 */
   }
@@ -42,7 +42,7 @@ key: page-about
     </ul>
   </div>
   <div class="image-content">
-    <img src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/me_1.jpg?raw=true" alt="Personal Image" style="width: 95%;" />  
+    <img src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/me_1.jpg?raw=true" alt="Personal Image" style="width: 100%;" />  
   </div>
 </div>
 
