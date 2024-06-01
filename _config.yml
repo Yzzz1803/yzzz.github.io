@@ -16,7 +16,7 @@
 
 ## => Site Settings
 ##############################
-text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : #
 baseurl : #
@@ -38,7 +38,7 @@ author:
   name      : Pengyu CHEN
   url       : https://pengyu-gis.github.io/
   avatar    : # path or url of avatar image (square)
-  bio       : A GIScience Student. Interested in multi-model and explainable AI
+  bio       : A GIScience Student. Interested in multi-model and GEOAI
   email     : pengyuchen2002@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : Andy_Pengyu # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
