@@ -32,7 +32,7 @@ key: page-about
 
 <div class="content-wrapper">
   <div class="text-content">
-    <p>I am an incoming M.S. & TA at the University of South Carolina, an intern at the Spatial Data Lab at Harvard University. I have been a visiting student at Wuhan University, an algorithmic internship at XCMG, and a research internship at Clemson University. My undergraduate degree will be from Wuhan University of Technology.</p>
+    <p>I am an incoming M.S. & TA at the University of South Carolina, a visiting student at Wuhan University, an intern at the Spatial Data Lab at Harvard University. I have been an algorithmic internship at XCMG, and a research internship at Clemson University. My undergraduate degree will be from Wuhan University of Technology.</p>
     <p>My research interests include:</p>
     <ul>
       <li>Connecting AI and human emotions</li>
