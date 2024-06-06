@@ -32,7 +32,7 @@ key: page-about
 
 <div class="content-wrapper">
   <div class="text-content">
-    <p>I am an incoming M.S. & TA at <a href="https://sc.edu/study/colleges_schools/artsandsciences/geography/">University of South Carolina</a>, a visiting student at <a href="https://only4john.github.io/">Wuhan University</a>, an intern at the <a href="https://projects.iq.harvard.edu/chinadatalab">Spatial Data Lab</a> at Harvard University. I have been an algorithmic internship at <a href="https://en.wikipedia.org/wiki/XCMG">XCMG</a>, and a research internship at Clemson University. My undergraduate degree will be from <a href="https://en.wikipedia.org/wiki/Wuhan_University_of_Technology">Wuhan University of Technology</a>.</p>
+    <p>I am an incoming M.S. & TA at <a href="https://sc.edu/study/colleges_schools/artsandsciences/geography/">University of South Carolina</a>, a visiting student at <a href="https://only4john.github.io/">Wuhan University</a>, an intern at the <a href="https://projects.iq.harvard.edu/chinadatalab">Spatial Data Lab</a> at Harvard University, the website manager of <a href="https://gisphere.info/">GISphere</a>. I have been an algorithmic internship at <a href="https://en.wikipedia.org/wiki/XCMG">XCMG</a>, and a research internship at Clemson University. My undergraduate degree will be from <a href="https://en.wikipedia.org/wiki/Wuhan_University_of_Technology">Wuhan University of Technology</a>.</p>
     <p>My research interests include:</p>
     <ul>
       <li>Connecting AI and human emotions</li>
