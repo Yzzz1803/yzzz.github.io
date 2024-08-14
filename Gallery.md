@@ -6,7 +6,7 @@ key: page-Gallery
 <style>
   .roman-font {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 1.5em; /* Adjust the font size as needed */
+    font-size: 1em; /* Adjust the font size as needed */
     font-weight: bold;
   }
 </style>
