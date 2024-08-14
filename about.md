@@ -4,54 +4,85 @@ titles: About ME
 key: page-about
 ---
 
-<style>
-  .content-wrapper {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    border: 2px solid black; /* 边框 */
-    padding: 15px; /* 内边距，确保内容不会紧贴边框 */
-    margin-bottom: 15px; /* 控制每个内容块之间的间距 */
-  }
-
-  .text-content {
-    width: 60%;
-    padding-right: 20px; /* 右侧内边距，确保文字和图片之间有间距 */
-  }
-
-  .image-content {
-    width: 30%;
-  }
-
-  .image-content img {
-    width: 100%;
-    border: 2px solid black; /* 给图片添加红色边框 */
-    padding: 3px; /* 给图片添加内边距，确保边框不会紧贴图片 */
-  }
-</style>
-
-<div class="content-wrapper">
-  <div class="text-content">
-    <p>
-    <ul>
-      <li>I am an M.S. & TA at <a href="https://sc.edu/study/colleges_schools/artsandsciences/geography/">University of South Carolina</a>  </li>
-      <li>I am an intern at the <a href="https://projects.iq.harvard.edu/chinadatalab">Spatial Data Lab</a> at Harvard University, the website manager of <a href="https://gisphere.info/">GISphere</a>. </li>
-      <li>I have been an algorithmic internship at <a href="https://en.wikipedia.org/wiki/XCMG">XCMG</a>, a visiting student at <a href="https://only4john.github.io/">Wuhan University</a>, and a research internship at Clemson University. My undergraduate degree was from <a href="https://en.wikipedia.org/wiki/Wuhan_University_of_Technology">Wuhan University of Technology</a>. </li>
-    </ul>
-    </p>
-    <p>My research interests include:</p>
-    <ul>
-      <li>Connecting AI and human emotions</li>
-      <li>Exploring the happiness level of people in cities</li>
-      <li>Improving the human-land relationship between humans and natural animals</li>
-      <li>Developing spatial algorithms to quantitatively express human-land related stories</li>
-    </ul>
-  </div>
-  <div class="image-content">
-    <img src="https://github.com/Pengyu-gis/Pengyu-gis.github.io/blob/master/assets/images/me_1.jpg?raw=true" alt="Personal Image" style="width: 100%;" />  
-  </div>
-</div>
-
+- Email: [pengyuc@email.sc.edu](mailto:pengyuc@email.sc.edu)
+- Location: Columbia, SC, USA
+- Website: [pengyu-gis.github.io](https://pengyu-gis.github.io/)
+- GitHub: [Pengyu-gis](https://github.com/Pengyu-gis)
+    
 ## Curriculum vitae:
 Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 <br>
+
+## Education
+
+### University of South Carolina, M.S. in Geographic Information Science
+
+- Sept 2024 – May 2026
+- TA scholarship
+
+### Wuhan University of Technology, B.S. in Geographic Information Science
+
+- Sept 2020 – June 2024
+
+## Academic Experience
+
+### Wuhan University, Visiting Student & Research Assistant
+
+- July 2023 – July 2024
+- Wuhan, China
+- Trained YOLO-based object detection algorithm and deployed model compression to the K210 microcontroller.
+- Application: Detecting Tibetan brown bears and using K210 to drive water pumps and bear spray.
+- Currently have a Chinese core journal in submission.
+- Supervisor: Prof. Teng Fei
+
+### Wuhan University of Technology, Research Assistant
+
+- June 2023 – June 2024
+- Wuhan, China
+- Focus on Image Segmentation, Knowledge Map, Remote Sensing.
+- Supervisor: Prof. Wei Cui
+
+### Clemson University, Research Intern
+
+- Sept 2022 – Jan 2023
+- Clemson, SC, USA
+- Data processing, data cleaning, and curve generation using MATLAB and Python.
+- Published paper in the Journal of Transport Geography.
+- Supervisor: Dr. Chao Fan
+
+### Wuhan University of Technology, Independent Innovation Project
+
+- July 2022 – Oct 2023
+- Wuhan, China
+- Used CNN to identify thermal power plants and neural network model to predict carbon emissions.
+- Supervisor: Prof. Wei Cui
+
+## Industry Experience
+
+### XCMG Road Machinery Division, Algorithm Intern
+
+- July 2022 – Aug 2022
+- Xuzhou, China
+- Developed digital roads using Leica software and presented results with ArcGIS.
+- Implemented and modified curve fitting algorithms for practical applications.
+- Supervisor: Bowen Wu
+
+## Volunteer Experience
+
+### GISinfo (Subprojects under GISphere), Development Team Leader,Members of the Council
+
+- Feb 2022 – present
+- Wuhan, China
+- Developed backend using Django framework with Django REST Framework APIs, connected to MySQL database.
+- Built front-end with Vue, managed user demand pool, and led backend development.
+- Check Our Website -- http://gisphere.info
+- Supervisors: Dr. Yuhao Kang, Dr. Shan Ye
+
+### ISUI (Urban Informatics), Website Operations Volunteer
+
+- Feb 2023 – July 2023
+- Wuhan, China
+- Built backend with PHP and frontend with Vue, hosted on WordPress.
+- Developed automated email delivery system and payment/receipt system.
+- Website: http://isocui.org
+- Supervisors: Dr. Rui Cao, Prof. Xintao Liu
