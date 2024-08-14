@@ -18,6 +18,7 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 **University of South Carolina** | *M.S. in Geographic Information Science*
 - August 2024 – May 2026
 - TA scholarship
+- Advisor: Dr. Sicheng Wang
 
 **Wuhan University of Technology** | *B.S. in Geographic Information Science*
 - Sept 2020 – June 2024
@@ -25,7 +26,13 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 
 ## Academic Experience
 
-**Wuhan University** | Visiting Student & Research Assistant
+**Harvard University** | *Research Intern* 
+- 2024-05 ~ Present
+- Spatial Data Laboratory (SDL) Internship Program
+- Geographic Big Data Analytics, Spatio-Temporal Data Mining
+- Supervisor: Dr. Yuhang Pan, Peking University
+
+**Wuhan University** | *Visiting Student & Research Assistant*
 
 - July 2023 – July 2024
 - Wuhan, China
@@ -34,14 +41,14 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 - Currently have a Chinese core journal in submission.
 - Supervisor: Prof. Teng Fei
 
-**Wuhan University of Technology** | Research Assistant
+**Wuhan University of Technology** | *Research Assistant*
 
 - June 2023 – June 2024
 - Wuhan, China
 - Focus on Image Segmentation, Knowledge Map, Remote Sensing.
 - Supervisor: Prof. Wei Cui
 
-**Clemson University** | Research Intern
+**Clemson University** | *Research Intern*
 
 - Sept 2022 – Jan 2023
 - Clemson, SC, USA
@@ -51,7 +58,7 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 
 ## Industry Experience
 
-**XCMG Road Machinery Division** | Algorithm Intern
+**XCMG Road Machinery Division** | *Algorithm Intern*
 
 - July 2022 – Aug 2022
 - Xuzhou, China
@@ -61,7 +68,7 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 
 ## Volunteer Experience
 
-**GISinfo (Subprojects under GISphere)** | Development Team Leader,Members of the Council
+**GISinfo (Subprojects under GISphere)** | *Development Team Leader, Members of the Council*
 
 - Feb 2022 – present
 - Wuhan, China
@@ -70,7 +77,7 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 - Check Our Website -- http://gisphere.info
 - Supervisors: Dr. Yuhao Kang, Dr. Shan Ye
 
-**ISUI (Urban Informatics)** | Website Operations Volunteer
+**ISUI (Urban Informatics)** | *Website Operations Volunteer*
 
 - Feb 2023 – July 2023
 - Built backend with PHP and frontend with Vue, hosted on WordPress.
