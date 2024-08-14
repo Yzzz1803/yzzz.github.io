@@ -1,9 +1,10 @@
 ---
+title: Publications
 layout: article
 key: page-Publications
 ---
 
-## Publications
+<br>
 
 *Socio-demographic inequalities in the impacts of extreme temperatures on population mobility* ([10.1016/j.jtrangeo.2023.103755](https://doi.org/10.1016/j.jtrangeo.2023.103755))
 - June 2023
