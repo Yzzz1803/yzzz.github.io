@@ -33,7 +33,6 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 - Supervisor: Dr. Yuhang Pan, Peking University
 
 **Wuhan University** | *Visiting Student & Research Assistant*
-
 - July 2023 – July 2024
 - Wuhan, China
 - Trained YOLO-based object detection algorithm and deployed model compression to the K210 microcontroller.
@@ -42,14 +41,12 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 - Supervisor: Prof. Teng Fei
 
 **Wuhan University of Technology** | *Research Assistant*
-
 - June 2023 – June 2024
 - Wuhan, China
 - Focus on Image Segmentation, Knowledge Map, Remote Sensing.
 - Supervisor: Prof. Wei Cui
 
 **Clemson University** | *Research Intern*
-
 - Sept 2022 – Jan 2023
 - Clemson, SC, USA
 - Data processing, data cleaning, and curve generation using MATLAB and Python.
@@ -59,7 +56,6 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 ## Industry Experience
 
 **XCMG Road Machinery Division** | *Algorithm Intern*
-
 - July 2022 – Aug 2022
 - Xuzhou, China
 - Developed digital roads using Leica software and presented results with ArcGIS.
@@ -69,7 +65,6 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 ## Volunteer Experience
 
 **GISinfo (Subprojects under GISphere)** | *Development Team Leader, Members of the Council*
-
 - Feb 2022 – present
 - Wuhan, China
 - Developed backend using Django framework with Django REST Framework APIs, connected to MySQL database.
@@ -78,7 +73,6 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 - Supervisors: Dr. Yuhao Kang, Dr. Shan Ye
 
 **ISUI (Urban Informatics)** | *Website Operations Volunteer*
-
 - Feb 2023 – July 2023
 - Built backend with PHP and frontend with Vue, hosted on WordPress.
 - Developed automated email delivery system and payment/receipt system.
