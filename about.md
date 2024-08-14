@@ -15,18 +15,17 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 
 ## Education
 
-### University of South Carolina, M.S. in Geographic Information Science
-
-- Sept 2024 – May 2026
+**University of South Carolina** | *M.S. in Geographic Information Science*
+- August 2024 – May 2026
 - TA scholarship
 
-### Wuhan University of Technology, B.S. in Geographic Information Science
-
+**Wuhan University of Technology** | *B.S. in Geographic Information Science*
 - Sept 2020 – June 2024
+- Thesis: *Transformer-based geographic scene description*
 
 ## Academic Experience
 
-### Wuhan University, Visiting Student & Research Assistant
+**Wuhan University** | Visiting Student & Research Assistant
 
 - July 2023 – July 2024
 - Wuhan, China
@@ -35,14 +34,14 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 - Currently have a Chinese core journal in submission.
 - Supervisor: Prof. Teng Fei
 
-### Wuhan University of Technology, Research Assistant
+**Wuhan University of Technology** | Research Assistant
 
 - June 2023 – June 2024
 - Wuhan, China
 - Focus on Image Segmentation, Knowledge Map, Remote Sensing.
 - Supervisor: Prof. Wei Cui
 
-### Clemson University, Research Intern
+**Clemson University** | Research Intern
 
 - Sept 2022 – Jan 2023
 - Clemson, SC, USA
@@ -50,16 +49,9 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 - Published paper in the Journal of Transport Geography.
 - Supervisor: Dr. Chao Fan
 
-### Wuhan University of Technology, Independent Innovation Project
-
-- July 2022 – Oct 2023
-- Wuhan, China
-- Used CNN to identify thermal power plants and neural network model to predict carbon emissions.
-- Supervisor: Prof. Wei Cui
-
 ## Industry Experience
 
-### XCMG Road Machinery Division, Algorithm Intern
+**XCMG Road Machinery Division** | Algorithm Intern
 
 - July 2022 – Aug 2022
 - Xuzhou, China
@@ -69,7 +61,7 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 
 ## Volunteer Experience
 
-### GISinfo (Subprojects under GISphere), Development Team Leader,Members of the Council
+**GISinfo (Subprojects under GISphere)** | Development Team Leader,Members of the Council
 
 - Feb 2022 – present
 - Wuhan, China
@@ -78,10 +70,9 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 - Check Our Website -- http://gisphere.info
 - Supervisors: Dr. Yuhao Kang, Dr. Shan Ye
 
-### ISUI (Urban Informatics), Website Operations Volunteer
+**ISUI (Urban Informatics)** | Website Operations Volunteer
 
 - Feb 2023 – July 2023
-- Wuhan, China
 - Built backend with PHP and frontend with Vue, hosted on WordPress.
 - Developed automated email delivery system and payment/receipt system.
 - Website: http://isocui.org
