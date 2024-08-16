@@ -3,8 +3,22 @@ title: GISphere Guide
 layout: article
 key: page-GISphere
 ---
+<style>
+    body {
+        font-family: "Times New Roman", Times, serif;
+    }
+    .publication-title {
+        font-weight: bold;
+    }
+    .publication-authors {
+        font-style: italic;
+    }
+    .publication-date {
+        font-style: normal;
+    }
+</style>
 
-![image](https://github.com/Pengyu-gis/Pengyu-gis.github.io/assets/95490459/d6ced901-97d6-4409-ac91-31e95979429a)
+![image](https://github.com/user-attachments/assets/6b1c075f-9e8d-4764-9f11-fd985e78b04f)
 
   
 *This School Instruction Project was launched in September 2019, aiming to provide timely and comprehensive information on global GIS and related professional colleges. The information is provided by current students, recently graduated alumni or young teachers from prestigious schools of GIS and urban planning and other related majors around the world. We hope this guide can provide help and support for GIS-related professional friends who intend to study abroad.*
