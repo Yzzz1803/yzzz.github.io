@@ -4,12 +4,20 @@ key: page-Gallery
 ---
 
 <style>
-  .roman-font {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 1em; /* Adjust the font size as needed */
-    font-weight: bold;
-  }
+    body {
+        font-family: "Times New Roman", Times, serif;
+    }
+    .publication-title {
+        font-weight: bold;
+    }
+    .publication-authors {
+        font-style: italic;
+    }
+    .publication-date {
+        font-style: normal;
+    }
 </style>
+
 <div class="roman-font">
   Sundown, yellow moon, I replay the past. 
   I know every scene by heart, they all went by so fast. --Bob Dylan
