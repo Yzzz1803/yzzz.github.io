@@ -1,4 +1,17 @@
-
+<style>
+    body {
+        font-family: "Times New Roman", Times, serif;
+    }
+    .publication-title {
+        font-weight: bold;
+    }
+    .publication-authors {
+        font-style: italic;
+    }
+    .publication-date {
+        font-style: normal;
+    }
+</style>
 <footer class="footer py-4 js-page-footer">
   <div class="main">
 
@@ -25,10 +38,9 @@
 
     <div class="site-info mt-2">
       <div>
-        {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
-        {%- assign _locale_copyright_dates = __return -%}
-        © {{ site.title }} {{ _locale_copyright_dates }},
-        </div>
+        PengyuCHEN 
+        © 2024.8
+      </div>
     </div>
   </div>
 </footer>
