@@ -4,6 +4,21 @@ titles: About ME
 key: page-about
 ---
 
+<style>
+    body {
+        font-family: "Times New Roman", Times, serif;
+    }
+    .publication-title {
+        font-weight: bold;
+    }
+    .publication-authors {
+        font-style: italic;
+    }
+    .publication-date {
+        font-style: normal;
+    }
+</style>
+
 - Email: [pengyuc@email.sc.edu](mailto:pengyuc@email.sc.edu)
 - Location: Columbia, SC, USA
 - Website: [pengyu-gis.github.io](https://pengyu-gis.github.io/)
