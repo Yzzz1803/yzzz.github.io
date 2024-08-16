@@ -19,8 +19,6 @@ key: page-Publications
     }
 </style>
 
-### Publications
-
 1. <span class="publication-title">Socio-demographic Inequalities in the Impacts of Extreme Temperatures on Population Mobility</span>  
    <span class="publication-authors">Xinyue Gu, <strong>Pengyu Chen</strong>, Chao Fan</span>  
    <span class="publication-date">June 2023</span>  
