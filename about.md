@@ -39,7 +39,7 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 - Sept 2020 – June 2024
 - Thesis: *Transformer-based geographic scene description*
 
-## Academic Experience
+## Research Experience
 
 **Harvard University** | *Research Intern* 
 - 2024-05 ~ Present
@@ -68,28 +68,6 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 - Published paper in the Journal of Transport Geography.
 - Supervisor: Dr. Chao Fan
 
-## Industry Experience
-
-**XCMG Road Machinery Division** | *Algorithm Intern*
-- July 2022 – Aug 2022
-- Xuzhou, China
-- Developed digital roads using Leica software and presented results with ArcGIS.
-- Implemented and modified curve fitting algorithms for practical applications.
-- Supervisor: Bowen Wu
-
-## Volunteer Experience
-
-**GISinfo (Subprojects under GISphere)** | *Development Team Leader, Members of the Council*
-- Feb 2022 – present
-- Wuhan, China
-- Developed backend using Django framework with Django REST Framework APIs, connected to MySQL database.
-- Built front-end with Vue, managed user demand pool, and led backend development.
-- Check Our Website -- http://gisphere.info
-- Supervisors: Dr. Yuhao Kang, Dr. Shan Ye
-
-**ISUI (Urban Informatics)** | *Website Operations Volunteer*
-- Feb 2023 – July 2023
-- Built backend with PHP and frontend with Vue, hosted on WordPress.
-- Developed automated email delivery system and payment/receipt system.
-- Website: http://isocui.org
-- Supervisors: Dr. Rui Cao, Prof. Xintao Liu
+## Teaching Experience
+- Landform Geography, GEOG 201
+- Lab Instructor
