@@ -8,13 +8,17 @@ header:
     url: /about.html
 
   - titles: 
-      en: GISphere
-    url: /GISphere.html
-
-  - titles: 
       en: Publications
     url: /Publications.html    
+
+  - titles: 
+      en: GISphere
+    url: /GISphere.html
     
+  - titles: 
+      en: Teaching
+    url: /Teaching.html  
+  
   - titles: 
       en: Gallery
     url: /Gallery.html
