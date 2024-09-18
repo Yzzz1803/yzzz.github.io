@@ -2,6 +2,8 @@
 layout: article
 key: page-Teaching
 ---
+
+
 <style>
     body {
         font-family: "Times New Roman", Times, serif;
@@ -18,7 +20,9 @@ key: page-Teaching
 </style>
 
 <div class="roman-font">
-  "If you want to master something, teach it. The more you teach, the better you learn. Teaching is a powerful tool to learning." --Feynman
+  "If you want to master something, teach it. <br>
+  The more you teach, the better you learn. Teaching is a powerful tool to learning." 
+                                                                                      --Feynman
 </div>
 
 ### Landform Geography | GEOG 201 | 2024 fall
