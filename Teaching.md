@@ -21,9 +21,9 @@ key: page-Teaching
 
 <div class="roman-font">
   "If you want to master something, teach it. <br>
-  The more you teach, the better you learn. Teaching is a powerful tool to learning." 
-                                                                                      --Feynman
+  The more you teach, the better you learn." --Feynman
 </div>
 
 ### Landform Geography | GEOG 201 | 2024 fall
-- Lab1 Maps and Mapping: [PDF Slides](/Teaching_slides/Maps_and_Mapping.pdf)
+- Lab2 Maps and Mapping: [PDF Slides](/Teaching_slides/Maps_and_Mapping.pdf)
+- Lab3 Minerals and Rocks [PDF Slides](/Teaching_slides/Maps_and_Mapping.pdf)
