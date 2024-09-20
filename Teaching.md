@@ -26,4 +26,4 @@ key: page-Teaching
 
 ### Landform Geography | GEOG 201 | 2024 fall
 - Lab2 Maps and Mapping: [PDF Slides](/Teaching_slides/Maps_and_Mapping.pdf)
-- Lab3 Minerals and Rocks: [PDF Slides](/Teaching_slides/Maps_and_Mapping.pdf)
+- Lab3 Minerals and Rocks: [PDF Slides](Teaching_slides/GEOG201_2024_Rocks.pdf)
