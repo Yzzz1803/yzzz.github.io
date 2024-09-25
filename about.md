@@ -32,8 +32,8 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 
 **University of South Carolina** | *M.S. in Geographic Information Science*
 - August 2024 – May 2026
-- TA scholarship
-- Advisor: Dr. Sicheng Wang
+- TA full scholarship
+- Advisor: [Dr. Sicheng Wang](https://scholar.google.com/citations?user=ul3VlbgAAAAJ&hl=en)
 
 **Wuhan University of Technology** | *B.S. in Geographic Information Science*
 - Sept 2020 – June 2024
@@ -42,7 +42,7 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 ## Research Experience
 
 **Harvard University** | *Research Intern* 
-- 2024-05 ~ Present
+- May 2024 - September 2024
 - Spatial Data Laboratory (SDL) Internship Program
 - Geographic Big Data Analytics, Spatio-Temporal Data Mining
 - Supervisor: Dr. Yuhang Pan, Peking University
@@ -53,7 +53,7 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 - Trained YOLO-based object detection algorithm and deployed model compression to the K210 microcontroller.
 - Application: Detecting Tibetan brown bears and using K210 to drive water pumps and bear spray.
 - Currently have a Chinese core journal in submission.
-- Supervisor: Prof. Teng Fei
+- Supervisor: [Prof. Teng Fei](https://only4john.github.io/students)
 
 **Wuhan University of Technology** | *Research Assistant*
 - June 2023 – June 2024
@@ -69,5 +69,5 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 - Supervisor: Dr. Chao Fan
 
 ## Teaching Experience
-- Landform Geography, GEOG 201
+- Landform Geography, GEOG 201, 2024 Fall
 - Lab Instructor
