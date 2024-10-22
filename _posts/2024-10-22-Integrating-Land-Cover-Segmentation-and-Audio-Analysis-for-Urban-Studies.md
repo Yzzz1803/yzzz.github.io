@@ -136,8 +136,9 @@ The combined analysis of land cover segmentation and audio features provides ins
 
 ## Pseudocode for Land Cover Segmentation and Audio Feature Integration
 
-```
 - **Step 1: Land Cover Segmentation Using SimFeatUp and SegEarth-OV**
+
+```
 Algorithm 1: Land Cover Segmentation with SimFeatUp and SegEarth-OV
 Input: input_image, pretrained_clip_model
 Output: segmentation_result
