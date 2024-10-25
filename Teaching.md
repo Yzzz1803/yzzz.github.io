@@ -24,6 +24,7 @@ key: page-Teaching
 </div>
 
 ### Landform Geography | GEOG 201 | 2024 fall
-- Lab2 Maps and Mapping: [PDF Slides](/Teaching_slides/Maps_and_Mapping.pdf)
-- Lab3 Minerals and Rocks: [PDF Slides](Teaching_slides/GEOG201_2024_Rocks.pdf)
-- Lab4 Soils and Soil Mapping: [PDF Slides](Teaching_slides/Soils_and_Soil_Mapping.pdf)
+- Lab 2 Maps and Mapping: [PDF Slides](/Teaching_slides/Maps_and_Mapping.pdf)
+- Lab 3 Minerals and Rocks: [PDF Slides](Teaching_slides/GEOG201_2024_Rocks.pdf)
+- Lab 4 Soils and Soil Mapping: [PDF Slides](Teaching_slides/Soils_and_Soil_Mapping.pdf)
+- Lab 6 Surface Hydrology and Watershed Processes: [PDF Slides](Teaching_slides/Surface_Hydrology_and_Watershed_Processes.pdf)
