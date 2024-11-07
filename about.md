@@ -55,14 +55,27 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 
 ## Education
 
-**University of South Carolina** | *M.S. in Geographic Information Science*
-- August 2024 – May 2026
-- TA full scholarship
-- Advisor: [Dr. Sicheng Wang](https://scholar.google.com/citations?user=ul3VlbgAAAAJ&hl=en)
+<div class="experience-section">
+    <div class="experience">
+        <img src="assets/usc_logo_centered_RGB_G.png" alt="University of South Carolina" class="experience-logo">
+        <div class="experience-details">
+            <h3>M.S. in Geographic Information Science</h3>
+            <p><strong>University of South Carolina</strong> | August 2024 – May 2026</p>
+            <p>TA full scholarship</p>
+            <p>Advisor: <a href="https://scholar.google.com/citations?user=ul3VlbgAAAAJ&hl=en">Dr. Sicheng Wang</a></p>
+        </div>
+    </div>
 
-**Wuhan University of Technology** | *B.S. in Geographic Information Science*
-- Sept 2020 – June 2024
-- Thesis: *Transformer-based geographic scene description*
+    <div class="experience">
+        <img src="assets/Wuhan_University_of_Technology_logo.svg.png" alt="Wuhan University of Technology" class="experience-logo">
+        <div class="experience-details">
+            <h3>B.S. in Geographic Information Science</h3>
+            <p><strong>Wuhan University of Technology</strong> | Sept 2020 – June 2024</p>
+            <p>Thesis: <em>Transformer-based geographic scene description</em></p>
+        </div>
+    </div>
+</div>
+
 
 ## Research Experience
 
@@ -89,7 +102,7 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
                 <li>Application: Detecting Tibetan brown bears and using K210 to drive water pumps and bear spray.</li>
                 <li>Currently have a Chinese core journal in submission.</li>
             </ul>
-            <p>Supervisor: <a href="https://only4john.github.io/students">Prof. Teng Fei</a></p>
+            <p>Supervisor: <a href="https://only4john.github.io/">Prof. Teng Fei</a></p>
         </div>
     </div>
 
@@ -110,8 +123,19 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 
 
 ## Teaching Experience
-- Landform Geography, GEOG 201, 2024 Fall
-- Lab Instructor
+
+<div class="experience-section">
+    <div class="experience">
+        <img src="assets/usc_logo_centered_RGB_G.png" alt="University of South Carolina" class="experience-logo">
+        <div class="experience-details">
+            <h3>Lab Instructor</h3>
+            <p><strong>University of South Carolina</strong></p>
+            <p>Course: Landform Geography, GEOG 201</p>
+            <p>2024 Fall</p>
+        </div>
+    </div>
+</div>
+
 
 
 ## Leading Experience
