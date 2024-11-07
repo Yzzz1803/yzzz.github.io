@@ -57,7 +57,7 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 
 <div class="experience-section">
     <div class="experience">
-        <img src="assets/usc_logo_centered_RGB_G.png" alt="University of South Carolina" class="experience-logo">
+        <img src="assets/usclogo.png" alt="University of South Carolina" class="experience-logo">
         <div class="experience-details">
             <h3>M.S. in Geographic Information Science</h3>
             <p><strong>University of South Carolina</strong> | August 2024 – May 2026</p>
@@ -126,7 +126,7 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 
 <div class="experience-section">
     <div class="experience">
-        <img src="assets/usc_logo_centered_RGB_G.png" alt="University of South Carolina" class="experience-logo">
+        <img src="assets/usclogo.png" alt="University of South Carolina" class="experience-logo">
         <div class="experience-details">
             <h3>Lab Instructor</h3>
             <p><strong>University of South Carolina</strong></p>
