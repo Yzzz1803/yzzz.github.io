@@ -17,6 +17,31 @@ key: page-about
     .publication-date {
         font-style: normal;
     }
+    .experience-section {
+        margin-top: 20px;
+    }
+    .experience {
+        display: flex;
+        align-items: flex-start;
+        margin-bottom: 20px;
+    }
+    .experience-logo {
+        width: 50px;
+        height: 50px;
+        margin-right: 15px;
+    }
+    .experience-details h3 {
+        margin: 0;
+        font-size: 1.2em;
+        font-weight: bold;
+    }
+    .experience-details p {
+        margin: 5px 0;
+    }
+    .experience-details ul {
+        padding-left: 20px;
+        margin: 5px 0;
+    }
 </style>
 
 - Email: [pengyuc@email.sc.edu](mailto:pengyuc@email.sc.edu)
@@ -41,33 +66,66 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
 
 ## Research Experience
 
-**Harvard University** | *Research Intern* 
-- May 2024 - September 2024
-- Spatial Data Laboratory (SDL) Internship Program
-- Geographic Big Data Analytics, Spatio-Temporal Data Mining
-- Supervisor: Dr. Yuhang Pan, Peking University
+<div class="experience-section">
+    <div class="experience">
+        <img src="assets/Harvardlogo.png" alt="Harvard University" class="experience-logo">
+        <div class="experience-details">
+            <h3>Research Intern</h3>
+            <p><strong>Harvard University</strong> | May 2024 - September 2024</p>
+            <p>Spatial Data Laboratory (SDL) Internship Program</p>
+            <p>Geographic Big Data Analytics, Spatio-Temporal Data Mining</p>
+            <p>Supervisor: Dr. Yuhang Pan, Peking University</p>
+        </div>
+    </div>
 
-**Wuhan University** | *Visiting Student & Research Assistant*
-- July 2023 – July 2024
-- Wuhan, China
-- Trained YOLO-based object detection algorithm and deployed model compression to the K210 microcontroller.
-- Application: Detecting Tibetan brown bears and using K210 to drive water pumps and bear spray.
-- Currently have a Chinese core journal in submission.
-- Supervisor: [Prof. Teng Fei](https://only4john.github.io/students)
+    <div class="experience">
+        <img src="assets/Wuhan_University_Logo.png" alt="Wuhan University" class="experience-logo">
+        <div class="experience-details">
+            <h3>Visiting Student & Research Assistant</h3>
+            <p><strong>Wuhan University</strong> | July 2023 – July 2024</p>
+            <p>Wuhan, China</p>
+            <ul>
+                <li>Trained YOLO-based object detection algorithm and deployed model compression to the K210 microcontroller.</li>
+                <li>Application: Detecting Tibetan brown bears and using K210 to drive water pumps and bear spray.</li>
+                <li>Currently have a Chinese core journal in submission.</li>
+            </ul>
+            <p>Supervisor: <a href="https://only4john.github.io/students">Prof. Teng Fei</a></p>
+        </div>
+    </div>
 
-**Wuhan University of Technology** | *Research Assistant*
-- June 2023 – June 2024
-- Wuhan, China
-- Focus on Image Segmentation, Knowledge Map, Remote Sensing.
-- Supervisor: Prof. Wei Cui
+    <div class="experience">
+        <img src="assets/Clemson_Tigers_logo.svg.png" alt="Clemson University" class="experience-logo">
+        <div class="experience-details">
+            <h3>Research Intern</h3>
+            <p><strong>Clemson University</strong> | Sept 2022 – Jan 2023</p>
+            <p>Clemson, SC, USA</p>
+            <ul>
+                <li>Data processing, data cleaning, and curve generation using MATLAB and Python.</li>
+                <li>Published paper in the Journal of Transport Geography.</li>
+            </ul>
+            <p>Supervisor: Dr. Chao Fan</p>
+        </div>
+    </div>
+</div>
 
-**Clemson University** | *Research Intern*
-- Sept 2022 – Jan 2023
-- Clemson, SC, USA
-- Data processing, data cleaning, and curve generation using MATLAB and Python.
-- Published paper in the Journal of Transport Geography.
-- Supervisor: Dr. Chao Fan
 
 ## Teaching Experience
 - Landform Geography, GEOG 201, 2024 Fall
 - Lab Instructor
+
+
+## Leading Experience
+<div class="experience-section">
+    <div class="experience">
+        <img src="assets/gispherelogo.png" alt="GISphere" class="experience-logo">
+        <div class="experience-details">
+            <h3>GISphere Website Development Leader</h3>
+            <p><strong>GISphere</strong> | Part-time | Jun 2021 – Present</p>
+            <p>Remote</p>
+            <ul>
+                <li>Developed backend using Django framework with Django REST Framework APIs, connected to MySQL database.</li>
+                <li>Built front-end with Vue, managed user demand pool, and led backend development.</li>
+            </ul>
+        </div>
+    </div>
+</div>
