@@ -111,7 +111,7 @@ Here is the PDF version: [PengyuCHEN Résumé](/Pengyu-CV.pdf)
         <div class="experience-details">
             <h3>Research Intern</h3>
             <p><strong>Clemson University</strong> | Sept 2022 – Jan 2023</p>
-            <p>Clemson, SC, USA</p>
+            <p>Remote</p>
             <ul>
                 <li>Data processing, data cleaning, and curve generation using MATLAB and Python.</li>
                 <li>Published paper in the Journal of Transport Geography.</li>
