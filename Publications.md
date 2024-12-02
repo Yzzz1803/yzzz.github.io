@@ -32,3 +32,14 @@ key: page-Publications
    <span class="publication-authors"><strong>Pengyu Chen</strong>, Tengyuan Liang, Zibin Wu</span>  
    <span class="publication-date">November 2022</span>  
    [DOI: 10.1088/1755-1315/1011/1/012044](https://doi.org/10.1088/1755-1315/1011/1/012044)
+
+Working Paper:
+1. <span class="publication-title">Intelligent Bear Prevention System Based on Computer Vision and IoT: a New Approach to Reduce Human-Bear Conflicts</span> <BR>
+*First Author*
+
+2. <span  class="publication-title">Sound, Space, and Sentiment: Understanding the Association of Urban Soundscapes and Perceptions</span> <BR>
+*First Author*
+
+3. <span  class="publication-title">Rooftop Detection from Historical Aerial Imagery Using Deep Learning in Downtown Charleston, SC</span><BR> 
+*First Author*
+
